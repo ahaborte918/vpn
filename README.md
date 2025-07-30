@@ -135,9 +135,9 @@ EXAMPLE 3C
 </p>
 <p>
 
-STEP 4 – Connecting to Proton VPN (Free Version)
+STEP 4 – Connecting to the VPN (Free Version)
 
-Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
+Using the local computer (not Remote Desktop) go to www.protonvpn.com and create a free account. DO NOT you use the VM unless you understand French because that is what will be displayed on your browser. After the logging into your account, copy the URL from Proton VPN's website (EXAMPLE 4A) and paste it into to the VM web browser. 
 
   
 </p>
@@ -145,7 +145,8 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 
 EXAMPLE 4A
 <p>
-<img src="https://i.imgur.com/orO2O5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1408" height="937" alt="VPN 10" src="https://github.com/user-attachments/assets/98ae99f3-3bb0-49fb-9506-35fbe010a5a8" />
+
 </p>
 <p>
 
