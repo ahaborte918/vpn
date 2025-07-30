@@ -35,16 +35,17 @@ EXAMPLE 1A
 </p>
 <p>
 
-Next we will set up our virtual machines on Azure. 
+Now we will set up our virtual machine in Microsoft Azure. 
   
 </p>
 <br />
 
-STEP 2 - Go to www.portal.azure.com, create an account, open a subscription, create a resource group and find Virtual Machines. See Example 2A looking at the Virtual Machine set up page. 
+STEP 2 - In order to create a virtual machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Next click "Create" followed by Virtual Machine tab to began creating one. See Example 2A below as a reference guide. 
 
 EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/K9oaS2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1653" height="773" alt="VPN 2" src="https://github.com/user-attachments/assets/9b1eb6f1-78f4-4900-b438-2a88e1a10a79" />
+
 </p>
 <p>
 
