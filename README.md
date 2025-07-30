@@ -30,7 +30,8 @@ STEP 1 - Locate your personal IP address by going to "www.whatismyipaddress.com"
 
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1820" height="809" alt="VPN 1" src="https://github.com/user-attachments/assets/5b352c4b-9f75-45bd-8699-30956443324e" />
+
 </p>
 <p>
 
