@@ -150,7 +150,7 @@ EXAMPLE 4A
 </p>
 <p>
 
-Once you have logged into your Proton VPN account on the VM, you will select “Downloads” and choose to download the “Windows” version. Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app. See EXAMPLE 4B when this steps are completed.  
+Now scroll down the and select “Downloads" tab. Here we will choose which OS we want to download our VPN. In our case “Windows” is the correct one (as shown in EXAMPLE 4B). Once the download completes the application is now installed so we will log in using the credentials created to set up the free account.  
   
 </p>
 <br />
@@ -158,11 +158,12 @@ Once you have logged into your Proton VPN account on the VM, you will select “
 
 EXAMPLE 4B
 <p>
-<img src="https://i.imgur.com/oqPHozb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1625" height="944" alt="VPN 11" src="https://github.com/user-attachments/assets/f0621ae7-378e-4438-81bc-15ad52799e18" />
+
 </p>
 <p>
 
-On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Japan. See EXAMPLE 4C
+Connect to the VPN through the installed app. On the left hand side of the VPN, we see the country of the Netherlands as the closer free server, the image below shows the VPN being connected to an IP in the Netherlands. 
   
 </p>
 <br />
