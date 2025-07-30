@@ -135,7 +135,7 @@ EXAMPLE 3C
 </p>
 <p>
 
-STEP 4 – CONNECTING TO VPN (Free Version)
+STEP 4 – Connecting to Proton VPN (Free Version)
 
 Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
 
