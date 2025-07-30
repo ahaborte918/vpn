@@ -100,7 +100,7 @@ EXAMPLE 2E
 
 STEP 3 – Log Into the VM and Find IP Address
 <p>
-Since we have set up our Virtual Machine we can now connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (refer back to EXAMPLE 2E for help) as the Computer and then type in the Username (refer back to EXAMPLE 2C for help). After logging into Remote Desktop, open the web browser and look up www.whatismyipaddress.com once again (EXAMPLE 3B).
+Since we have set up our Virtual Machine we can now connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (refer back to EXAMPLE 2E for help) as the Computer and then type in the Username + Password (refer back to EXAMPLE 2C for help). After logging into Remote Desktop, open the web browser and look up www.whatismyipaddress.com once again (EXAMPLE 3B).
 
   
 </p>
