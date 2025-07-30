@@ -100,14 +100,15 @@ EXAMPLE 2E
 
 STEP 3 – Log Into the VM and Find IP Address
 <p>
-Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
+Since we have set up our Virtual Machine we can now connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (refer back to EXAMPLE 2E for help) as the Computer and then type in the Username (refer back to EXAMPLE 2C for help). After logging into Remote Desktop, open the web browser and look up www.whatismyipaddress.com once again (EXAMPLE 3B).
 
   
 </p>
 <br />
 EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/YPBkMau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="599" height="371" alt="VPN 7" src="https://github.com/user-attachments/assets/38946338-4184-4359-92f9-49bd763123ea" />
+
 </p>
 <p>
 
@@ -117,18 +118,20 @@ EXAMPLE 3A
 
 EXAMPLE 3B
 <p>
-<img src="https://i.imgur.com/oPJr2w2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1799" height="682" alt="VPN 8" src="https://github.com/user-attachments/assets/26221819-21df-4349-8b82-52804cb097aa" />
+
 </p>
 <p>
 
-When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for France (EXAMPLE 3C).
+When we look up the IP address for this VM through www.whatismyipaddress.com we now see that it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (EXAMPLE 3C).
   
 </p>
 <br />
 
 EXAMPLE 3C
 <p>
-<img src="https://i.imgur.com/nWlX2UM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1799" height="682" alt="VPN 8" src="https://github.com/user-attachments/assets/95a8852b-8e39-4e9b-87d8-b4d4117bfc01" />
+
 </p>
 <p>
 
