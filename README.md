@@ -49,7 +49,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-Create the Virtual Machine on Example 2B by listing "VPN-Test" as the Resource group and listing “FranceVM” as the Virtual machine name. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+Create the Virtual Machine on EXAMPLE 2B by listing "VPN-Test" as the Resource group and listing “FranceVM” as the Virtual machine name. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
 <p>
@@ -65,7 +65,8 @@ For the Username and Password you can create your credentials.
 
 EXAMPLE 2C
 <p>
-<img src="https://i.imgur.com/rXIj3Zb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="935" height="694" alt="VPN 4" src="https://github.com/user-attachments/assets/db6a4961-269d-42e3-b8eb-ac29f4ef68fa" />
+
 </p>
 <p>
 
