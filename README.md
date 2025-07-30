@@ -82,17 +82,18 @@ EXAMPLE 2D
 </p>
 <p>
 
-Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
+Then select “Review and Create”, once it passes validation select “Create” at the bottom. You will receive a follow-up notification that says "deployment in progress" so be prepared to wait for about 2-3 minutes for it to complete.
   
 </p>
 <br />
 
-NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
+Once Deployment is completed we can click on our Virtual Machine to open it. There we will discover our VM'S Public IP address and other information as shown in EXAMPLE 2E
 
 EXAMPLE 2E
 
 <p>
-<img src="https://i.imgur.com/ZlH9zI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1661" height="783" alt="VPN 6" src="https://github.com/user-attachments/assets/edca9eb6-e2d6-485c-9507-982c80dc8f6f" />
+
 </p>
 <p>
 
