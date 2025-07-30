@@ -49,11 +49,12 @@ EXAMPLE 2A
 </p>
 <p>
 
-Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+Create the Virtual Machine on Example 2B by listing "VPN-Test" as the Resource group and listing “FranceVM” as the Virtual machine name. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/u3vclL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1064" height="710" alt="VPN 3" src="https://github.com/user-attachments/assets/a835454e-0eb7-42e0-bbc6-02e604544308" />
+
 </p>
 <p>
 
