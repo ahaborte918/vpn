@@ -70,14 +70,15 @@ EXAMPLE 2C
 </p>
 <p>
 
-Select the “Networking” tab towards the top of the page and view EXAMPLE 2D inputs to match. 
+Select the tab that says "Networking" (Basics -> Disks -> Networking) towards the top of the page and view EXAMPLE 2D inputs to match. 
   
 </p>
 <br />
 
 EXAMPLE 2D
 <p>
-<img src="https://i.imgur.com/OgYgNLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1029" height="822" alt="VPN 5" src="https://github.com/user-attachments/assets/978161fc-9de6-43b7-a7ea-b520ff2cadc1" />
+
 </p>
 <p>
 
