@@ -40,7 +40,7 @@ Now that our local IP address was found, the next thing to do is set up our Virt
 </p>
 <br />
 
-STEP 2 - In order to create a Virtual Machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Click on "Create" followed by the Virtual Machine tab to began creating one. See Example 2A below as a reference guide. 
+STEP 2 - In order to create a Virtual Machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Click on "Create" followed by the Virtual Machine tab to began creating one. 
 
 EXAMPLE 2A
 <p>
@@ -49,7 +49,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-When creating a Virtual Machine, remember to list the original Resource Group name "VPN-Test" here (we can look at EXAMPLE 2A if we forget the name chosen). Also, remember to list “FranceVM” as the Virtual Machine name in the very next input field. Ensure the other items are selected as shown in EXAMPLES 2B & 2C.
+When creating a Virtual Machine, remember to list the original Resource Group name (we chose "VPN-Test" as the name). DO NOT create a new Resource Group name. Enter the Virtual machine name you made on the previous page (we chose “FranceVM” as the name). Ensure the other items are selected as shown in EXAMPLES 2B & 2C.
 
 EXAMPLE 2B
 <p>
@@ -58,7 +58,7 @@ EXAMPLE 2B
 </p>
 <p>
 
-NOTE: For the Username and Password we created our own credentials.
+NOTE: for the Username and Password we created our own credentials (as shown in EXAMPLE 2C).
   
 </p>
 <br />
@@ -100,7 +100,7 @@ EXAMPLE 2E
 
 STEP 3 – Log into the Virtual Machine and find the IP address
 <p>
-Since we have set up our Virtual Machine we can connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (go back to EXAMPLE 2E for help) as the Computer and then type in the Username + Password (check out EXAMPLE 2C for help). After successfully logging into Remote Desktop, open the web browser and type in www.whatismyipaddress.com once again like in EXAMPLE 3B.
+Since we have set up our Virtual Machine we can connect to it using Remote Desktop (see EXAMPLE 3A below). Input the IP address our Virtual Machine generated (scroll back up to EXAMPLE 2E for help) as the Computer and then type in the Username + Password (scroll back up to EXAMPLE 2C for help). After successfully logging into Remote Desktop, open the web browser and type in www.whatismyipaddress.com as shown below in EXAMPLE 3B.
 
   
 </p>
