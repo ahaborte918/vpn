@@ -187,10 +187,10 @@ EXAMPLE 4D
 </p>
 <p>
 
-Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
-Home IP (USA): 137.103.51.136
-Virtual Machin IP (France): 20.216.176.18
-Virtual Machin IP VPN (Japan) 212.102.51.251
+Looking at this exercise we see that 3 different IP addresses were utilized just from our local computer to connect to the internet.
+Home IP (USA): 99.47.77.196,
+Virtual Machine IP (France): 98.66.162.170,
+Virtual Machine IP VPN (Netherlands) 80.79.7.127
 
   
 </p>
