@@ -35,7 +35,7 @@ EXAMPLE 1A
 </p>
 <p>
 
-Now that our local IP address was found, the next thing to do is set up our Virtual Machine in Microsoft Azure. 
+Now that our local IP address was found the next thing to do is set up our Virtual Machine in Microsoft Azure. 
   
 </p>
 <br />
