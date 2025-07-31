@@ -14,7 +14,7 @@ In this section, we will set up a Virtual Private Network (VPN) by first creatin
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 </b> (22H2)
+- Windows 11 </b> (24H2)
 
 <h2>STEPS INCLUDED</h2>
 
