@@ -87,7 +87,7 @@ Select “Review and Create” and wait a few seconds for it to pass validation.
 </p>
 <br />
 
-Once deployment is finished we can click on our Virtual Machine to open it. There we will discover our VM'S Public IP address and other information as shown in EXAMPLE 2E
+Once deployment is finished we can click on our Virtual Machine to open it. There we will discover our Virtual Machine's Public IP address and other information as shown below in EXAMPLE 2E.
 
 EXAMPLE 2E
 
@@ -123,7 +123,7 @@ EXAMPLE 3B
 </p>
 <p>
 
-When we look up the IP address for the VM here through www.whatismyipaddress.com we now see that it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (EXAMPLE 3C).
+When we look up the IP address for the Virtual Machine through www.whatismyipaddress.com we now see it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (see EXAMPLE 3C).
   
 </p>
 <br />
@@ -137,7 +137,7 @@ EXAMPLE 3C
 
 STEP 4 – Connecting to the VPN (Free Version)
 
-Using our local computer (not Remote Desktop) head to www.protonvpn.com and create a free account. DO NOT use the Virtual Machine because French will be displayed on the browser since our location has changed to France (as mentioned in EXAMPLE 3C). After logging into our account, let's copy the URL from Proton VPN's website (EXAMPLE 4A) & paste it into to our VM's web browser. 
+Using our local computer (not Remote Desktop) head to www.protonvpn.com and create a free account. DO NOT use the Virtual Machine because French will be displayed on the browser since our location has changed to France (as mentioned in EXAMPLE 3C). After logging into our account, let's copy the URL from Proton VPN's website (for EXAMPLE 4A) & paste it into to our VM's web browser. 
 
   
 </p>
@@ -150,7 +150,7 @@ EXAMPLE 4A
 </p>
 <p>
 
-Now scroll down the and select the “Downloads" tab. Here we can choose which operating system we want to download the VPN on. In our case we will use Windows to download it (as shown in EXAMPLE 4B). Once the download completes the application is now installed.  
+Now scroll down the and select the “Downloads" tab. Here we can choose which operating system we want to download the VPN on. In our case we selected Windows (as shown in EXAMPLE 4B). Once the download completes the application is now installed.  
   
 </p>
 <br />
@@ -163,7 +163,7 @@ EXAMPLE 4B
 </p>
 <p>
 
-Open the app and log in using the credentials we created for the free account. Click on Connect to began finding a server. We can see that the Netherlands was selected as the fastest free server. EXAMPLE 4C below shows the VPN being connected to an IP address in the Netherlands. 
+Open the app and log in using the credentials we created for the free account. Click on Connect to began finding a server. EXAMPLE 4C below shows that the Netherlands was selected as the fastest free server for our connection.
   
 </p>
 <br />
@@ -175,7 +175,7 @@ EXAMPLE 4C
 </p>
 <p>
 
-Using our VM browser, we will look up our IP address one last time now that the VPN is connected via the Netherlands. The website www.whatismyipaddress.com shows yet another IP address change using the VPN from the Netherlands. I must say this is quite fascinating!
+Using our VM browser, we will look up our IP address one last time now that the VPN is connected. In EXAMPLE 4D the website www.whatismyipaddress.com shows yet another IP address change using the VPN from the Netherlands. I must say this is quite fascinating!!
   
 </p>
 <br />
