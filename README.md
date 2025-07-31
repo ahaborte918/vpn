@@ -123,7 +123,7 @@ EXAMPLE 3B
 </p>
 <p>
 
-When we look up the IP address for the Virtual Machine through www.whatismyipaddress.com we now see it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (see EXAMPLE 3C).
+When we look up the IP address for the Virtual Machine through www.whatismyipaddress.com we now see it's showing Amazon.com as our Internet Service Provider (ISP) and our location has now changed to France (see EXAMPLE 3C).
   
 </p>
 <br />
@@ -137,7 +137,7 @@ EXAMPLE 3C
 
 STEP 4 – Connecting to the VPN (Free Version)
 
-Using our local computer (not Remote Desktop) head to www.protonvpn.com and create a free account. DO NOT use the Virtual Machine because French will be displayed on the browser since our location has changed to France (as mentioned in EXAMPLE 3C). After logging into our account, let's copy the URL from Proton VPN's website (for EXAMPLE 4A) & paste it into to our VM's web browser. 
+Using our local computer (not Remote Desktop) head to www.protonvpn.com and create a free account. DO NOT use the Virtual Machine because French will be displayed on the browser since our location has changed to France (as mentioned in EXAMPLE 3C). After logging into our account, let's copy the URL from Proton VPN's website (see EXAMPLE 4A) & paste it into to our VM's web browser. 
 
   
 </p>
