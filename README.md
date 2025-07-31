@@ -150,7 +150,7 @@ EXAMPLE 4A
 </p>
 <p>
 
-Now scroll down the and select “Downloads" tab. Here we will choose which OS we want to download our VPN. In our case “Windows” is the correct one (as shown in EXAMPLE 4B). Once the download completes the application is now installed so we will log in using the credentials created to set up the free account.  
+Now scroll down the and select the “Downloads" tab. Here we will choose which OS we want to download our VPN. In our case “Windows” is the correct one (as shown in EXAMPLE 4B). Once the download completes the application is now installed so we will log in using the credentials created to set up the free account.  
   
 </p>
 <br />
@@ -163,25 +163,27 @@ EXAMPLE 4B
 </p>
 <p>
 
-Connect to the VPN through the installed app. On the left hand side of the VPN, we see the country of the Netherlands as the closer free server, the image below shows the VPN being connected to an IP in the Netherlands. 
+Connect to the VPN through the installed app. We see that the Netherlands was selected as the fastest free server. EXAMPLE 4C below shows the VPN being connected to an IP in the Netherlands. 
   
 </p>
 <br />
 
 EXAMPLE 4C
 <p>
-<img src="https://i.imgur.com/6Rdgg6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1713" height="966" alt="VPN 12" src="https://github.com/user-attachments/assets/30bac208-db22-45aa-8216-d4f52477df45" />
+
 </p>
 <p>
 
-Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
+Finally we will look at the IP again using the VM browser now that we have connected the VPN to the Netherlands. The website www.whatismyipaddress.com shows yet another IP address change using the VPN from the Netherlands. I must say this is quite fascinating!
   
 </p>
 <br />
 
 EXAMPLE 4D
 <p>
-<img src="https://i.imgur.com/lQsISWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1708" height="745" alt="VPN 13" src="https://github.com/user-attachments/assets/8a0c7180-f46e-4b68-a092-7a8acb1c4854" />
+
 </p>
 <p>
 
