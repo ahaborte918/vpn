@@ -40,7 +40,7 @@ Now that our local IP address was found, the next thing to do is set up our Virt
 </p>
 <br />
 
-STEP 2 - In order to create a Virtual Machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Click on "Create" followed by the Virtual Machine tab to began creating one. 
+STEP 2 - In order to create a Virtual Machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Click on "Create" followed by the Virtual Machine tab to began creating one like we've done in EXAMPLE 2A. 
 
 EXAMPLE 2A
 <p>
