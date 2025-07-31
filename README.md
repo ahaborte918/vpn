@@ -14,19 +14,19 @@ In this section, we will set up a Virtual Private Network (VPN) by first creatin
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 Pro</b> (22H2)
+- Windows 11 </b> (22H2)
 
 <h2>STEPS INCLUDED</h2>
 
-- STEP 1 - Locating local personal IP address
-- STEP 2 - Setting up Virtual Machine using Azure
-- STEP 3 - Locating IP through Virtual Machine (France)
-- STEP 4 - Connecting to VPN (Virtual Private Network) Through Virtual Machine
-- STEP 5 - Locating IP Through VPN (Netherlands)
+- STEP 1 - Locating local IP address
+- STEP 2 - Setting up Virtual Machine in Azure
+- STEP 3 - Locating IP address through Virtual Machine (France)
+- STEP 4 - Connecting to VPN (Virtual Private Network) through Virtual Machine
+- STEP 5 - Locating IP address through VPN (Netherlands)
 
 <h2>Installation Steps</h2>
 
-STEP 1 - Locate your personal IP address by going to "www.whatismyipaddress.com" and it will show your local IP address. Use my example posted (EXAMPLE 1A) as a reference.
+STEP 1 - We began this exercise by going to "www.whatismyipaddress.com" to find our local IP address. Use the example posted (EXAMPLE 1A) as a reference.
 
 EXAMPLE 1A
 <p>
@@ -35,7 +35,7 @@ EXAMPLE 1A
 </p>
 <p>
 
-Now we will set up our virtual machine in Microsoft Azure. 
+Now that our local IP address was found, the next thing to do is set up our Virtual Machine in Microsoft Azure. 
   
 </p>
 <br />
