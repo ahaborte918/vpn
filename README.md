@@ -18,15 +18,15 @@ In this section, we will set up a Virtual Private Network (VPN) by first creatin
 
 <h2>STEPS INCLUDED</h2>
 
-- STEP 1 - Locating local IP address
-- STEP 2 - Setting up Virtual Machine in Azure
-- STEP 3 - Locating IP address through Virtual Machine (France)
-- STEP 4 - Connecting to VPN (Virtual Private Network) through Virtual Machine
-- STEP 5 - Locating IP address through VPN (Netherlands)
+- STEP 1 - Locating our local IP address
+- STEP 2 - Setting up the Virtual Machine in Microsoft Azure
+- STEP 3 - Locating our IP address through the Virtual Machine (France)
+- STEP 4 - Connecting to Proton's VPN (Virtual Private Network) through Virtual Machine
+- STEP 5 - Locating our IP address through the VPN (Netherlands)
 
 <h2>Installation Steps</h2>
 
-STEP 1 - We began this exercise by going to "www.whatismyipaddress.com" to find our local IP address. Use the example posted (EXAMPLE 1A) as a reference.
+STEP 1 - We began this exercise by going to "www.whatismyipaddress.com" to find our local IP address. Use EXAMPLE 1A below as a reference guide.
 
 EXAMPLE 1A
 <p>
@@ -40,7 +40,7 @@ Now that our local IP address was found, the next thing to do is set up our Virt
 </p>
 <br />
 
-STEP 2 - In order to create a virtual machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Next click "Create" followed by Virtual Machine tab to began creating one. See Example 2A below as a reference guide. 
+STEP 2 - In order to create a Virtual Machine, we must first create a Resource Group. After the Resource Group has been created type Virtual Machines into the search bar. Click on "Create" followed by the Virtual Machine tab to began creating one. See Example 2A below as a reference guide. 
 
 EXAMPLE 2A
 <p>
@@ -49,7 +49,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-Create the Virtual Machine on EXAMPLE 2B by listing "VPN-Test" as the Resource group and listing “FranceVM” as the Virtual machine name. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+When creating a Virtual Machine, remember to list the original Resource Group name "VPN-Test" here (we can look at EXAMPLE 2A if we forget the name chosen). Also, remember to list “FranceVM” as the Virtual Machine name in the very next input field. Ensure the other items are selected as shown in EXAMPLES 2B & 2C.
 
 EXAMPLE 2B
 <p>
@@ -58,7 +58,7 @@ EXAMPLE 2B
 </p>
 <p>
 
-For the Username and Password you can create your credentials.
+NOTE: For the Username and Password we created our own credentials.
   
 </p>
 <br />
@@ -70,7 +70,7 @@ EXAMPLE 2C
 </p>
 <p>
 
-Select the tab that says "Networking" (Basics -> Disks -> Networking) towards the top of the page and view EXAMPLE 2D inputs to match. 
+Select the tab that says "Networking" (Basics -> Disks -> Networking) towards the top of the page and view EXAMPLE 2D to ensure the inputs match. 
   
 </p>
 <br />
@@ -82,12 +82,12 @@ EXAMPLE 2D
 </p>
 <p>
 
-Then select “Review and Create”, once it passes validation select “Create” at the bottom. You will receive a follow-up notification that says "deployment in progress" so be prepared to wait for about 2-3 minutes for it to complete.
+Select “Review and Create” and wait a few seconds for it to pass validation. After it passes validation select “Create” at the bottom. You will receive a follow-up notification that says "deployment in progress" so be prepared to wait for about 2-3 minutes for it to complete the deployment.
   
 </p>
 <br />
 
-Once Deployment is completed we can click on our Virtual Machine to open it. There we will discover our VM'S Public IP address and other information as shown in EXAMPLE 2E
+Once deployment is finished we can click on our Virtual Machine to open it. There we will discover our VM'S Public IP address and other information as shown in EXAMPLE 2E
 
 EXAMPLE 2E
 
@@ -98,9 +98,9 @@ EXAMPLE 2E
 <p>
 
 
-STEP 3 – Log Into the VM and Find IP Address
+STEP 3 – Log into the Virtual Machine and find the IP address
 <p>
-Since we have set up our Virtual Machine we can now connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (refer back to EXAMPLE 2E for help) as the Computer and then type in the Username + Password (refer back to EXAMPLE 2C for help). After logging into Remote Desktop, open the web browser and look up www.whatismyipaddress.com once again (EXAMPLE 3B).
+Since we have set up our Virtual Machine we can connect to it using Remote Desktop (shown in EXAMPLE 3A). Input the IP address our VM generated (go back to EXAMPLE 2E for help) as the Computer and then type in the Username + Password (check out EXAMPLE 2C for help). After successfully logging into Remote Desktop, open the web browser and type in www.whatismyipaddress.com once again like in EXAMPLE 3B.
 
   
 </p>
@@ -123,7 +123,7 @@ EXAMPLE 3B
 </p>
 <p>
 
-When we look up the IP address for this VM through www.whatismyipaddress.com we now see that it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (EXAMPLE 3C).
+When we look up the IP address for the VM here through www.whatismyipaddress.com we now see that it's showing Amazon.com as our Internet Service Provider (ISP) and our location has changed to France (EXAMPLE 3C).
   
 </p>
 <br />
@@ -137,7 +137,7 @@ EXAMPLE 3C
 
 STEP 4 – Connecting to the VPN (Free Version)
 
-Using the local computer (not Remote Desktop) go to www.protonvpn.com and create a free account. DO NOT you use the VM unless you understand French because that is what will be displayed on your browser. After the logging into your account, copy the URL from Proton VPN's website (EXAMPLE 4A) and paste it into to the VM web browser. 
+Using our local computer (not Remote Desktop) head to www.protonvpn.com and create a free account. DO NOT use the Virtual Machine because French will be displayed on the browser since our location has changed to France (as mentioned in EXAMPLE 3C). After logging into our account, let's copy the URL from Proton VPN's website (EXAMPLE 4A) & paste it into to our VM's web browser. 
 
   
 </p>
@@ -150,7 +150,7 @@ EXAMPLE 4A
 </p>
 <p>
 
-Now scroll down the and select the “Downloads" tab. Here we will choose which OS we want to download our VPN. In our case “Windows” is the correct one (as shown in EXAMPLE 4B). Once the download completes the application is now installed so we will log in using the credentials created to set up the free account.  
+Now scroll down the and select the “Downloads" tab. Here we can choose which operating system we want to download the VPN on. In our case we will use Windows to download it (as shown in EXAMPLE 4B). Once the download completes the application is now installed.  
   
 </p>
 <br />
@@ -163,7 +163,7 @@ EXAMPLE 4B
 </p>
 <p>
 
-Connect to the VPN through the installed app. We see that the Netherlands was selected as the fastest free server. EXAMPLE 4C below shows the VPN being connected to an IP in the Netherlands. 
+Open the app and log in using the credentials we created for the free account. Click on Connect to began finding a server. We can see that the Netherlands was selected as the fastest free server. EXAMPLE 4C below shows the VPN being connected to an IP address in the Netherlands. 
   
 </p>
 <br />
@@ -175,7 +175,7 @@ EXAMPLE 4C
 </p>
 <p>
 
-Finally we will look at the IP again using the VM browser now that we have connected the VPN to the Netherlands. The website www.whatismyipaddress.com shows yet another IP address change using the VPN from the Netherlands. I must say this is quite fascinating!
+Using our VM browser, we will look up our IP address one last time now that the VPN is connected via the Netherlands. The website www.whatismyipaddress.com shows yet another IP address change using the VPN from the Netherlands. I must say this is quite fascinating!
   
 </p>
 <br />
@@ -187,10 +187,10 @@ EXAMPLE 4D
 </p>
 <p>
 
-Looking at this exercise we see that 3 different IP addresses were utilized just from our local computer to connect to the internet.
-Home IP (USA): 99.47.77.196,
+As we review this exercise in totality, we notice that 3 different IP addresses were utilized just from our local computer to connect to the internet.
+Home/Local IP (USA): 99.47.77.196,
 Virtual Machine IP (France): 98.66.162.170,
-Virtual Machine IP VPN (Netherlands) 80.79.7.127
+Virtual Machine IP VPN (Netherlands): 80.79.7.127
 
   
 </p>
