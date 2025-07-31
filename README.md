@@ -49,7 +49,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-When creating a Virtual Machine, remember to select the name you chose for the Resource Group under Project details - Subscription - Resource Group (in ours "VPN-Test" is the name chosen). DO NOT create a new Resource Group name. Enter the Virtual machine name you would to use (we chose “FranceVM” as the name). Ensure the other items are selected as shown in EXAMPLES 2B & 2C.
+Be sure to select the name you used when you created the Resource Group under the firt section Project details - Subscription* - Resource group* (in ours "VPN-Test" is the name). DO NOT create a new Resource Group name. Enter a Virtual machine name (we chose “FranceVM” as the name). Ensure that the other items are checked as shown in EXAMPLES 2B & 2C.
 
 EXAMPLE 2B
 <p>
