@@ -21,7 +21,7 @@ In this section, we will set up a Virtual Private Network (VPN) by first creatin
 - STEP 1 - Locating our local IP address
 - STEP 2 - Setting up the Virtual Machine in Microsoft Azure
 - STEP 3 - Locating our IP address through the Virtual Machine (France)
-- STEP 4 - Connecting to Proton's VPN (Virtual Private Network) through Virtual Machine
+- STEP 4 - Connecting to a VPN (Virtual Private Network) courtesy of the Virtual Machine
 - STEP 5 - Locating our IP address through the VPN (Netherlands)
 
 <h2>Installation Steps</h2>
