@@ -4,7 +4,7 @@
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
-In this section, we will set up a Virtual Private Network (VPN) by first creating a Virtual Machine in Microsoft Azure. From there we will configure the necessary network settings to establish secure remote connections within a network infrastructure.<br />
+In this section we will set up a Virtual Private Network (VPN) by first creating a Virtual Machine in Microsoft Azure. From there we will configure the necessary network settings to establish secure remote connections within a network infrastructure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
