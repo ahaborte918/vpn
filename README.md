@@ -187,6 +187,7 @@ EXAMPLE 4D
 </p>
 <p>
 
+<h2>Final Thoughts</h2>
 As we review this exercise in totality, we notice that 3 different IP addresses were utilized just from our local computer to connect to the internet.
 Home/Local IP (USA): 99.47.77.196,
 Virtual Machine IP (France): 98.66.162.170,
