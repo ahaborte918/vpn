@@ -182,7 +182,8 @@ Using our VM browser, we will look up our IP address one last time now that the 
 
 EXAMPLE 4D
 <p>
-<img <img width="1708" height="745" alt="VPN 13" src="https://github.com/user-attachments/assets/8a0c7180-f46e-4b68-a092-7a8acb1c4854" />
+<img width="1708" height="745" alt="VPN 13" src="https://github.com/user-attachments/assets/b5cedd5f-2ffe-4e68-a7e6-4d63d5a5a450" />
+
 
 </p>
 <p>
