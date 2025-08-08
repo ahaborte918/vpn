@@ -189,7 +189,7 @@ EXAMPLE 4D
 <p>
 
 <h2>Final Thoughts</h2>
-As we review this exercise in totality, we notice that 3 different IP addresses were utilized just from our local computer to connect to the internet.
+This project strengthened my understanding of VPN architecture by implementing a secure network tunnel within a virtualized environment. It also enhanced my skills in configuring, testing, and troubleshooting secure remote connections. When reviewing this project in totality, notice that 3 different IP addresses were utilized just from our local computer to connect to the internet.
 Home/Local IP (USA): 99.47.77.196,
 Virtual Machine IP (France): 98.66.162.170,
 Virtual Machine IP VPN (Netherlands): 80.79.7.127
