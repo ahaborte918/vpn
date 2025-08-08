@@ -188,6 +188,8 @@ EXAMPLE 4D
 </p>
 <p>
 
+
+
 <h2>Final Thoughts</h2>
 This project strengthened my understanding of VPN architecture by implementing a secure network tunnel within a virtualized environment. It also enhanced my skills in configuring, testing, and troubleshooting secure remote connections. When reviewing this project in totality, notice that 3 different IP addresses were utilized just from our local computer to connect to the internet.
 Home/Local IP (USA): 99.47.77.196,
