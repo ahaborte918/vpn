@@ -16,7 +16,7 @@ In this project we will set up a Virtual Private Network (VPN) by first creating
 
 - Windows 11 </b> (24H2)
 
-<h2>STEPS INCLUDED</h2>
+<h2>Steps Included</h2>
 
 - STEP 1 - Locating our local IP address
 - STEP 2 - Setting up a Virtual Machine in Microsoft Azure
