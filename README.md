@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/148ea37f-12b6-4db2-9a6d-dd2d9df49395" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h1>VPN - Prerequisites and Installation</h1>
+<h1>VPN - Setup and Usuage</h1>
 In this project we will set up a Virtual Private Network (VPN) by first creating a Virtual Machine in Microsoft Azure. From there we will configure the necessary network settings to establish secure remote connections within a network infrastructure.<br />
 
 <h2>Environments and Technologies Used</h2>
